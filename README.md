@@ -15,6 +15,7 @@
 + [Acknowledgements](#acknowledgements)
 
 ## About <a name="description"></a>
++"Fake Product Detection is a Python-based project leveraging blockchain technology to ensure product authenticity. By integrating decentralized verification, each product is assigned a unique digital ID recorded on the blockchain. This secure and transparent system helps consumers verify product legitimacy, preventing the circulation of counterfeit goods effectively."
 + In today’s world, how do you know if you are buying a genuine product?
 + For more than a decade now, RFID (Radio Frequency IDentification) technology has been quite effective in providing anti-counterfeits measures in the supply chain.
 + We leverage the idea of Bitcoin’s blockchain that anyone can check the proof of possession of balance. Along with this, we plan to use QR codes.
